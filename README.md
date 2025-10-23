@@ -9,7 +9,7 @@
 - 📖I’m currently a third-year student at Karadeniz Technical University.
 - 🔭I’m currently studying computer logic in class and teaching myself web development.
 - 🌱 I’m always curious about learning new technologies and improving my coding skills.
-- - 💬 I’m interested in HTML, CSS, JavaScript, Flutter and backend technologies like Golang.    
+- 💬 I’m interested in HTML, CSS, JavaScript, Flutter and backend technologies like Golang.    
 - 📫 How to reach me: **[asuderuken63@gmail.com](mailto:asuderuken63@gmail.com)**  
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I can’t code without listening to classical music 🎧🎻
